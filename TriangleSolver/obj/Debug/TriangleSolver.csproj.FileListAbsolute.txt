@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.dll
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.pdb
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
+C:\Users\kasmi\Conestoga College\classes\Level4\Software Qlty\Assignments\ass2\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.dll
+C:\Users\kasmi\Conestoga College\classes\Level4\Software Qlty\Assignments\ass2\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.pdb
+C:\Users\kasmi\Conestoga College\classes\Level4\Software Qlty\Assignments\ass2\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+C:\Users\kasmi\Conestoga College\classes\Level4\Software Qlty\Assignments\ass2\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+C:\Users\kasmi\Conestoga College\classes\Level4\Software Qlty\Assignments\ass2\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
+C:\Users\kasmi\Conestoga College\classes\Level4\Software Qlty\Assignments\ass2\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
