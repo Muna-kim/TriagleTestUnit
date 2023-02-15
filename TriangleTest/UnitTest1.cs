@@ -25,7 +25,7 @@ namespace TriangleTest
             // Assert
             Assert.AreEqual(output, actual);
         }
-
+        
     }
 }
 
